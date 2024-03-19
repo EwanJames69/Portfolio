@@ -258,7 +258,7 @@ span{
     justify-content: space-evenly; /* Distribute space evenly between items */
 }
 
-.documents-container a {
+.documents-container a{
     background: #212121;
     padding: 10px 18px;
     text-decoration: none;
@@ -273,6 +273,9 @@ span{
     nav {
         width: 100%;
         text-align: center; /* Centering the logo */
+        display: flex;
+        flex-direction: column; /* Display items in a column */
+        align-items: center; /* Center items horizontally */
     }
 
     .logo {
