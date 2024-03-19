@@ -1,0 +1,1 @@
+A simple web-application made to present my skills and attributes to anyone who is looking to know more about me. It gives details of who I am exactly, and what type of skills I have managed to learn over the years.
