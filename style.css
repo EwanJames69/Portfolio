@@ -8,6 +8,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
+    background: #FAFAF8;
 }
 
 nav{
@@ -96,7 +97,7 @@ span{
 }
 
 .about{
-    background: #eff4fd;
+    background: #FAFAF8;
 }
 
 .about-photo{
