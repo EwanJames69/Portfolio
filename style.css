@@ -225,7 +225,7 @@ span{
 
 .middlebottom-block{
     max-width: 435px;
-    justify-content: space-evenly;
+    margin-left: 550px;
     margin-bottom: 35px;
     background:darkorange;
     border-radius: 20px;
