@@ -139,33 +139,39 @@ span{
     border-radius: 5px;
 }
 
-.bouncyball-container{
+.lightorange-container{
     display: flex;
     margin-top: 30px;
+    background:orange;
+    border-radius: 20px;
+    padding: 20px;
 }
 
-.bouncyball-description{
+.lightorange-description{
     margin-left: 20px;
 }
 
-.bouncyball-photo{
+.lightorange-photo{
     width: 700px;
     margin-right: 20px;
     margin-left: 20px;
 }
 
-.storewebsite-container{
+.orange-container{
     display: flex;
     margin-top: 30px;
+    background:darkorange;
+    border-radius: 20px;
+    padding: 20px;
 }
 
-.storewebsite-photo{
+.orange-photo{
     width: 700px;
     margin-left: 20px;
     margin-right: 20px;
 }
 
-.storewebsite-description{
+.orange-description{
     margin-right: 20px;
 }
 
