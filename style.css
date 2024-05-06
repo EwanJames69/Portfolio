@@ -145,6 +145,8 @@ span{
     background:orange;
     border-radius: 20px;
     padding: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .lightorange-description{
@@ -163,6 +165,8 @@ span{
     background:darkorange;
     border-radius: 20px;
     padding: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .orange-photo{
