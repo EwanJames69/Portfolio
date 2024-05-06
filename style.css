@@ -145,12 +145,13 @@ span{
     background:orange;
     border-radius: 20px;
     padding: 20px;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 .lightorange-description{
     margin-left: 20px;
+    margin-top: 15px;
 }
 
 .lightorange-photo{
@@ -165,8 +166,13 @@ span{
     background:darkorange;
     border-radius: 20px;
     padding: 20px;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.orange-description{
+    margin-right: 20px;
+    margin-top: 15px;
 }
 
 .orange-photo{
@@ -175,7 +181,9 @@ span{
     margin-right: 20px;
 }
 
-.orange-description{
+.mobileapplication-photo{
+    width: 330px;
+    margin-left: 20px;
     margin-right: 20px;
 }
 
