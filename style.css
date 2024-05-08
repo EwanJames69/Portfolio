@@ -300,3 +300,39 @@ span{
     margin-top: 25px;
     margin-bottom: 30px;
 }
+
+.motivation-container{
+    margin-left: 130px;
+    margin-right: 130px;
+    background:orange;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.motivation-container h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.motivation-container p{
+    margin-top: 20px;
+    font-size: 16px;
+    color: black;
+}
+
+.testimonial-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.testimonial-container a{
+    background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
