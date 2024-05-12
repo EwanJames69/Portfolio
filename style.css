@@ -123,32 +123,33 @@ This is the original code
 -------------------------
 */
 
-.aboutHeader {
-    color: black;
-    text-decoration: none;
-    font-size: 25px;
-    border: none;
-    background: none;
-    font-weight: 600;
-    font-family: 'Poppins', sans-serif;
-  }
-  
-  .aboutHeader::before {
-    margin-left: auto;
-  }
-  
-  .aboutHeader::after, .aboutHeader::before {
-    content: '';
-    width: 0%;
-    height: 2px;
-    background: #f44336;
-    display: block;
-    transition: 0.5s;
-  }
-  
-  .aboutHeader:hover::after, .aboutHeader:hover::before {
-    width: 100%;
-  }
+button {
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  border: none;
+  background: none;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  align-items: center;
+}
+
+button::before {
+  margin-left: auto;
+}
+
+button::after, button::before {
+  content: '';
+  width: 0%;
+  height: 2px;
+  background: #f44336;
+  display: block;
+  transition: 0.5s;
+}
+
+button:hover::after, button:hover::before {
+  width: 100%;
+}
 
 .about-content p{
     font-size: large;
