@@ -41,7 +41,8 @@ nav ul li a:hover{
 }
 
 .index-container button {
-    margin: 0;
+    margin-left: 30px;
+    margin-bottom: 20px;
     height: auto;
     background: transparent;
     padding: 0;
@@ -51,8 +52,8 @@ nav ul li a:hover{
   
 .index-container button {
     --border-right: 6px;
-    --text-stroke-color: rgba(255,255,255,0.6);
-    --animation-color: #37FF8B;
+    --text-stroke-color: rgba(0, 0, 0, 0.6);
+    --animation-color: #ffee37;
     --fs-size: 2em;
     letter-spacing: 3px;
     text-decoration: none;
@@ -147,7 +148,7 @@ nav ul li a:hover{
   background: none;
   font-weight: 600;
   font-family: 'Poppins', sans-serif;
-  margin-left: 230px;
+  margin-left: 210px;
   margin-bottom: 10px;
 }
 
